@@ -1,6 +1,6 @@
-# Ink::Rails
+# ink-rails
 
-Ink for Rails Asset Pipeline. More information at https://github.com/sapo/Ink.
+Ink for Rails Asset Pipeline.
 
 ## Installation
 
@@ -19,11 +19,12 @@ Or install it yourself as:
 ## Usage
 
 Add this lines to your application.css before "*= require_tree .":
-*= require ink
-*= require ink-ie
-*= require ink-ltie9
 
-For JavaScript file and documentation check http://ink.sapo.pt/
+	*= require ink
+	*= require ink-ie
+	*= require ink-ltie9
+
+More information about Ink Framework at https://github.com/sapo/Ink.
 
 ## Contributing
 
