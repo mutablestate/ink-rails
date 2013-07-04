@@ -1,6 +1,7 @@
 # ink-rails
 
-Ink for Rails Asset Pipeline.
+Ink version 2.0.0 for Rails Asset Pipeline.
+Forked from https://github.com/npestana/ink-rails
 
 ## Installation
 
