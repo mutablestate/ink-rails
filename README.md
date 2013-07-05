@@ -28,6 +28,7 @@ Add this lines to your application.css before "*= require_tree .":
 	*= require ink
 	*= require ink-ie
 	*= require ink-ltie9
+  *= require font-awesome
 
 Add these lines to your application.js before "//= require_tree .":
 
