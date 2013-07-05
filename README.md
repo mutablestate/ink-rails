@@ -31,8 +31,8 @@ Add this lines to your application.css before "*= require_tree .":
 
 Add these lines to your application.js before "//= require_tree .":
 
-  //= require ink-all.min
-  //= require autoload
+    //= require ink-all.min
+    //= require autoload
 
 More information about Ink Framework at https://github.com/sapo/Ink.
 
