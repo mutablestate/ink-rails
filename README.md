@@ -26,15 +26,15 @@ Or install it yourself as:
 Add this lines to your application.css before "*= require_tree .":
 
 	*= require ink
-	*= require ink-ie7	
+	*= require ink-ie7
     *= require font-awesome
 
 Add these lines to your application.js before "//= require_tree .":
 
     //= require ink-all.min
     //= require autoload
-    //= require modernizr
-    
+    //= require html5shiv
+
 
 More information about Ink Framework at https://github.com/sapo/Ink.
 
